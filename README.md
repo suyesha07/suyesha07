@@ -10,7 +10,6 @@
 
 
 ![focus](https://img.shields.io/badge/focus-ML-brightgreen)
-![living](https://img.shields.io/badge/living-Bengaluru-3c9)
 
 <img width="50%" align="left" alt="Github Image" src="https://github.com/suyesha07/suyesha07/blob/main/my-octocat-1631285221627.png" />
 
@@ -62,6 +61,9 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=suyesha07&show_icons=true&theme=radical" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=suyesha07&theme=radical" width="45%" >
+  
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyesha07&layout=compact&theme=radical" length="70%">
+
 
 <br>
 
