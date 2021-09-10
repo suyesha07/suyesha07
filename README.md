@@ -1,24 +1,23 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Suyesha Bhattacharjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Namaste world, I'm Suyesha Bhattacharjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Tech Enthusiast from India ❤</h3>
+<h3 align="center">More into creating things, more than making !</h3>
   
-<!-- I'm passionate about Machine Learnung.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
+<!-- I like automating things, , exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
 
 
 
 
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![focus](https://img.shields.io/badge/focus-ML-brightgreen)
 ![living](https://img.shields.io/badge/living-Bengaluru-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Java and ReactJs
-- 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/rajat_sethi28/) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 🌱 I’m currently learning FullStack.
+- 👯 I’m looking to collaborate on Machine Learning and Basic Web Dev stuff
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/suyesha-bhattacharjee-07/) 
+- 😄 Pronouns: She/her 
 <br />
 <br />
 
@@ -79,9 +78,9 @@
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rajat-sethi28/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rajat.sethi.7731/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/suyesha-bhattacharjee-07/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]https://www.instagram.com/suyeshaaaaa/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]()
 <!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
 
