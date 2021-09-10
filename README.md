@@ -12,8 +12,8 @@
 ![focus](https://img.shields.io/badge/focus-ML-brightgreen)
 ![living](https://img.shields.io/badge/living-Bengaluru-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-![alt text] (https://github.com/suyesha07/suyesha07/blob/main/image.jpg?raw=true)
+<img width="50%" align="left" alt="Github Image" src="https://github.com/suyesha07/suyesha07/blob/main/my-octocat-1631285221627.png" />
+
 
 - 🌱 I’m currently learning FullStack.
 - 👯 I’m looking to collaborate on Machine Learning and Basic Web Dev stuff
