@@ -15,7 +15,10 @@
 <img width="50%" align="left" alt="Github Image" src="https://github.com/suyesha07/suyesha07/blob/main/my-octocat-1631285221627.png" />
 
 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 I’m currently learning FullStack.
+- 💬 Ask me about anything related to Machine.
+- 👨‍💻 &nbsp;Read more about my projects at [suyesha07.com]
 - 👯 I’m looking to collaborate on Machine Learning and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/suyesha-bhattacharjee-07/) 
 - 😄 Pronouns: She/her 
