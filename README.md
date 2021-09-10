@@ -46,11 +46,10 @@
 <!-- <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=suyesha07&theme=radical"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p> -->
-
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -58,7 +57,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=suyesha07&show_icons=true&theme=radical" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=suyesha07&theme=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=suyesha07&theme=radical" width="45%" >
 
 <br>
 
@@ -79,7 +78,7 @@
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/suyesha-bhattacharjee-07/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]https://www.instagram.com/suyeshaaaaa/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/suyeshaaaaa/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]()
 <!-- [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">]()
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]() -->
