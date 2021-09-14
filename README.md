@@ -2,7 +2,7 @@
 
 <h1 align="center"> Namaste world, I'm Suyesha Bhattacharjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">More into creating things, more than making !</h3>
+<h3 align="center">More into creating things, rather than making !</h3>
   
 <!-- I like automating things, , exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
 
