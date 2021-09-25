@@ -17,7 +17,7 @@
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 I’m currently learning FullStack.
 - 💬 Ask me about anything related to Machine.
-- 👨‍💻 &nbsp;Read more about my projects at [suyesha07.com]
+- 👨‍💻 &nbsp;Read more about my projects at [https://suyesha07.github.io/portfolio/]
 - 👯 I’m looking to collaborate on Machine Learning and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/suyesha-bhattacharjee-07/) 
 - 😄 Pronouns: She/her 
